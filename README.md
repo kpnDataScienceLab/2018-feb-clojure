@@ -2,12 +2,12 @@
 
 Understanding core.async, and possibly taking first steps towards parallel evolutionary computing
 
-## Should haves
+## Requirements
 
 * Non-zero understanding of Clojure / LISP
 * IDE and Leiningen installed
 
-## If all goes well and parallel evolutionary computing is a go
+## Additional Requirements (If all goes well)
 
 * Understanding of Genetic Algorithms / Genetic Programming / Evolutionary Strategies
 * Understanding of Quil / Processing
