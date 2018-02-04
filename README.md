@@ -6,11 +6,14 @@ Understanding core.async, and possibly taking first steps towards parallel evolu
 
 * Non-zero understanding of Clojure / LISP
 * IDE and Leiningen installed
+
+## If all goes well and parallel evolutionary computing is a go
+
 * Understanding of Genetic Algorithms / Genetic Programming / Evolutionary Strategies
 * Understanding of Quil / Processing
 
-## Possible Last-Minute Substitution Projects
+## Possible Substitution Projects
 
 * Generative Music using Clojure and Overtone/SuperCollider
 * Generative Art using Clojure and Quil
-* Controlling Hexapod Robot from Clojure REPL
+* Controlling Hexapod Robot with Clojure from REPL
